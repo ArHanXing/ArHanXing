@@ -1,10 +1,12 @@
 {
-	id: "2b1bcd3b-bce7-42fa-ad07-222f6da75996"
-	type: "player"
-	player_name: "ArHanXing"
-	ranks: { }
+	id: "1f58cb37-0cbb-4520-a1e5-da64f5b58399"
+	type: "party"
+	owner: "2b1bcd3b-bce7-42fa-ad07-222f6da75996"
+	ranks: {
+		2b1bcd3b-bce7-42fa-ad07-222f6da75996: "owner"
+	}
 	properties: {
-		"ftbteams:display_name": "VMHanXing"
+		"ftbteams:display_name": "格雷星生产建设兵团"
 		"ftbteams:description": ""
 		"ftbteams:color": "#59FF77"
 		"ftbteams:free_to_join": 0b
@@ -22,6 +24,6 @@
 		"ftbchunks:claim_visibility": "public"
 		"ftbchunks:location_mode": "allies"
 	}
-	message_history: [ ]
+	message_history: [{ from: "00000000-0000-0000-0000-000000000000", date: 1776527028244L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"ArHanXing\"}]}" }]
 	extra: { }
 }
