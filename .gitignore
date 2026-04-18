@@ -1,0 +1,5 @@
+# 游戏存档同步忽略文件
+*.tmp
+*.bak
+Thumbs.db
+.DS_Store

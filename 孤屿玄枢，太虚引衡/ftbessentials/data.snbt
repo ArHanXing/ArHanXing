@@ -1,0 +1,7 @@
+{
+	warps: {
+		--基地中心: { dim: "minecraft:overworld", x: 3, y: 66, z: 3, time: 1742574388318L, xRot: 25.349977f, yRot: 36.44998f }
+	}
+	mute_timeouts: { }
+	kits: { }
+}
