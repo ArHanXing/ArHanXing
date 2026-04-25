@@ -3147,39 +3147,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/magma_cream": {
-    "criteria": {
-      "has_blaze_powder": "2026-04-24 21:07:10 +0800"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/wireless_terminal": {
-    "criteria": {
-      "has_terminal": "2026-04-24 21:13:35 +0800"
-    },
-    "done": true
-  },
   "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
       "blaze_rod": "2026-04-24 20:33:00 +0800"
     },
     "done": true
   },
-  "minecraft:recipes/misc/fire_charge": {
+  "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
-      "has_blaze_powder": "2026-04-24 21:07:10 +0800"
+      "has_blaze_rod": "2026-04-24 20:33:00 +0800"
     },
     "done": true
   },
-  "ae2:recipes/misc/network/cells/view_cell_storage": {
+  "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
-      "has_terminal": "2026-04-24 21:13:35 +0800"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cells/view_cell": {
-    "criteria": {
-      "has_terminal": "2026-04-24 21:13:35 +0800"
+      "has_blaze_rod": "2026-04-24 20:33:00 +0800"
     },
     "done": true
   },
@@ -3195,21 +3177,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2026-04-24 21:07:10 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2026-04-24 21:07:10 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
       "has_blaze_powder": "2026-04-24 21:07:10 +0800"
     },
     "done": true
   },
-  "minecraft:recipes/brewing/blaze_powder": {
+  "ae2:recipes/misc/network/wireless_terminal": {
     "criteria": {
-      "has_blaze_rod": "2026-04-24 20:33:00 +0800"
+      "has_terminal": "2026-04-24 21:13:35 +0800"
     },
     "done": true
   },
-  "minecraft:recipes/brewing/brewing_stand": {
+  "ae2:recipes/misc/network/cells/view_cell_storage": {
     "criteria": {
-      "has_blaze_rod": "2026-04-24 20:33:00 +0800"
+      "has_terminal": "2026-04-24 21:13:35 +0800"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cells/view_cell": {
+    "criteria": {
+      "has_terminal": "2026-04-24 21:13:35 +0800"
     },
     "done": true
   },
