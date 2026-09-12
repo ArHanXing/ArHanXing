@@ -1,17 +1,9 @@
-<<<<<<< HEAD
 {
 	warps: {
-		--基地中心: { dim: "minecraft:overworld", x: 3, y: 66, z: 3, time: 1742574388318L, xRot: 25.349977f, yRot: 36.44998f }
+		__base: { dim: "minecraft:overworld", x: 3, y: 66, z: 4, time: 1789175510204L, xRot: 35.549843f, yRot: -122.99942f }
+		月球-独居石: { dim: "ad_astra:moon", x: -42, y: 27, z: -43, time: 1789175469334L, xRot: 47.999878f, yRot: -139.64874f }
+		月球-铀钍: { dim: "ad_astra:moon", x: 11, y: 40, z: 13, time: 1789175143247L, xRot: 30.452906f, yRot: 169.6507f }
 	}
 	mute_timeouts: { }
 	kits: { }
 }
-=======
-{
-	warps: {
-		--基地中心: { dim: "minecraft:overworld", x: 3, y: 66, z: 3, time: 1742574388318L, xRot: 25.349977f, yRot: 36.44998f }
-	}
-	mute_timeouts: { }
-	kits: { }
-}
->>>>>>> cb2d9ea (自动同步游戏存档 - 2026-04-18 22:15:57)
