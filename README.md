@@ -127,6 +127,14 @@ Linux Starter，目前在用 kubuntu 26.04。
 
 崩崩崩蹦蹦，好想玩原神。云原神！！！
 
+---
+参考文献：
+
+- https://www.luogu.com/article/c1kie9gn
+- https://mp.weixin.qq.com/s/kx0OTafWWBh3CqF5BwpKxA
+- https://github.com/NekoCurit/NekoCurit/tree/94f50bf611731ec4c3c76d74d3dd29a078dca91e
+- https://www.bilibili.com/video/BV1ic411D7xo
+
 <!--
 **ArHanXing/ArHanXing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
